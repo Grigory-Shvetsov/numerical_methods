@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Integrate\Программа\Integrate\main.cpp(97,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Integrate\Программа\Integrate\main.cpp(164): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<double,std::allocator<double>> gauss<double>(std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<double,std::allocator<double>> &)"
+  Integrate.vcxproj -> C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Integrate\Программа\Integrate\x64\Debug\Integrate.exe

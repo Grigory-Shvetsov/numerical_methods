@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Контрольные вопросы}}}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Результаты}}}}}{9}{}%
+\contentsline {paragraph}{Тестовая задача 1}{9}{}%
+\contentsline {paragraph}{Тестовая задача 2}{10}{}%
+\contentsline {paragraph}{Тестовая задача 3}{11}{}%
+\contentsline {paragraph}{Тестовая задача 4}{13}{}%
+\contentsline {paragraph}{Тестовая задача 5}{15}{}%
+\contentsline {paragraph}{Первое дифференциальное приближение}{17}{}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{18}{}%

@@ -1,0 +1,5 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Контрольные вопросы}}}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Дополнительные задачи}}}}}{6}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {3.\ }}}}{{\textbf {\ignorespaces {Результаты}}}}}{11}{}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{13}{}%

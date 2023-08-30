@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Wave\Программа\wave\main.cpp(40,11): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Wave\Программа\wave\main.cpp(71,11): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  wave.vcxproj -> C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Wave\Программа\wave\x64\Debug\wave.exe

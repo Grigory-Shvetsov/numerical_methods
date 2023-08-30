@@ -1,0 +1,7 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Контрольные вопросы}}}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Результаты}}}}}{15}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.1.\ }}}{\ignorespaces {Проверка консервативности}}}{15}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.2.\ }}}{\ignorespaces {График погрешности в случае K(u)}}}{16}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.3.\ }}}{\ignorespaces {Оценка порядка сходимости}}}{17}{}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{19}{}%

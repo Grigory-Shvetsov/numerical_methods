@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Контрольные вопросы}}}}}{3}{}%
+\contentsline {section}{\numberline {{\hbox to 0pt{\hss }} {{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Результаты}}}}}{15}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.1.\ }}}{\ignorespaces {Оценка порядка сходимости}}}{15}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.2.\ }}}{\ignorespaces {Иллюстрация работы стратегии контроля шага}}}{18}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.3.\ }}}{\ignorespaces {Задача о маятнике}}}{19}{}%
+\contentsline {subsection}{\numberline {{\hbox to 0pt{\hss }} {{2.4.\ }}}{\ignorespaces {Исследование фазовой плоскости}}}{24}{}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{27}{}%

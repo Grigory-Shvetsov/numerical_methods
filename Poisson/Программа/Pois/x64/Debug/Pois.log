@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\main.cpp(385,12): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\main.cpp(386,12): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\main.cpp(387,11): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\main.cpp(100,12): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\main.cpp(317): message : выполняется компиляция ссылки на экземпляр шаблон функции "void solver<false,false,false,false>(double,double,double,double,double,double,std::function<double (double,double)>,std::function<double (double)>,std::function<double (double)>,std::function<double (double)>,std::function<double (double)>,std::ostream &)"
+C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\main.cpp(101,12): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  Pois.vcxproj -> C:\Users\griho\OneDrive\Рабочий стол\Численные методы\Poisson\Программа\Pois\x64\Debug\Pois.exe
